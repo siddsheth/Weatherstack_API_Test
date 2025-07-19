@@ -1,0 +1,2 @@
+class ApiResources:
+    current = "current"
